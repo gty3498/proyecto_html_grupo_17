@@ -1,0 +1,24 @@
+body{
+background-color: black;
+color: antiquewhite;
+font-family: sans-serif
+}
+h2{
+    font-family: fantasy;
+    color: rgb(251, 255, 0);
+}
+h3{font-size: large}
+img{
+    width: 15%;
+}
+div{
+    display: flex;
+    margin-bottom: 30px;
+    
+}
+p, img{
+    margin-right: 30px;
+}
+div h1{
+    color: gold;
+}
